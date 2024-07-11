@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @makarDeve
-- 👀 Я интересуюс PHP и бэк разработке
+- 👀 Я интересуюсь PHP и бэк разработке
 - 🌱 I’m currently learning PHP->Html->CSS->JavaScript->Go=Full stack dev
